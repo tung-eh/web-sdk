@@ -1,6 +1,6 @@
 {
   "name": "@portis/web3",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Portis Web3 SDK",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -44,5 +44,6 @@
     "ethereumjs-util": "7.0.1",
     "penpal": "3.0.7",
     "pocket-js-core": "0.0.3"
-  }
+  },
+  "gitHead": "d7daa81ec818b14f966f92abd7ed0a902ac8bae4"
 }
